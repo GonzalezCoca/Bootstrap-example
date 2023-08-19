@@ -1,0 +1,2 @@
+Bootstrap: Libreria de estilos CSS, creada por twitter, cuya principal carcateristoca es dotar a los sitios
+web de responsividad.
